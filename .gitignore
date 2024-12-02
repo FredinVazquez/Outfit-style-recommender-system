@@ -1,2 +1,5 @@
 ../images_filtered/
 Images/
+Scripts/Test_Model.ipynb
+Scripts/ProcessingImages.ipynb
+Scripts/DataSetFiltered.ipynb
